@@ -9,3 +9,14 @@
 - 빌드 : ??
 - 실행 : ??
 - 테스트 : ??
+
+## Agent skills
+
+### Issue tracker
+이슈/PRD는 `.scratch/<feature-slug>/` 아래 마크다운 파일로 관리. See `docs/agents/issue-tracker.md`.
+
+### Triage labels
+5개 표준 역할 모두 기본 문자열 사용. See `docs/agents/triage-labels.md`.
+
+### Domain docs
+단일 컨텍스트 (루트 CONTEXT.md + docs/adr/). See `docs/agents/domain.md`.
